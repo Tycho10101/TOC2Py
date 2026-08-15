@@ -1,6 +1,7 @@
 
 # TOC2Py
-A TOC2 Python3 library for bots and clients!\
+A TOC2 Python3 library for bots and clients!
+Thanks to mk6i for [Open Oscar Server](https://github.com/mk6i/Open-Oscar-Server/) and the documentation for TOC protocols
 
 # Installation (PIP)
 Not available yet.
